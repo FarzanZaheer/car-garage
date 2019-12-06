@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "model": "RS7 4.0",
+      "year": 2015,
+      "heroImage": {
+        "id": "155fa5ae-00a0-11ea-84e3-4371baa68b28",
+        "fileName": "2019-11-06.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-155fa5ae-00a0-11ea-84e3-4371baa68b28.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-155fa5ae-00a0-11ea-84e3-4371baa68b28.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    {
+      "model": "A6 50",
+      "year": 2013,
+      "heroImage": {
+        "id": "206b3cd8-00a0-11ea-a1de-278776d54145",
+        "fileName": "2019-11-06.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-206b3cd8-00a0-11ea-a1de-278776d54145.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-206b3cd8-00a0-11ea-a1de-278776d54145.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    {
+      "model": "G-klasse 300",
+      "year": 2011,
+      "heroImage": {
+        "id": "2b301b3e-00a0-11ea-a1df-d319b5694f62",
+        "fileName": "2019-11-06.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-2b301b3e-00a0-11ea-a1df-d319b5694f62.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-2b301b3e-00a0-11ea-a1df-d319b5694f62.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    {
+      "model": "EB Veyron 16.4 SS",
+      "year": 2015,
+      "heroImage": {
+        "id": "329ca892-00a0-11ea-a1e0-87df99c1daef",
+        "fileName": "2019-11-06.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-329ca892-00a0-11ea-a1e0-87df99c1daef.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-329ca892-00a0-11ea-a1e0-87df99c1daef.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    {
+      "model": "911 GT3 RS",
+      "year": 2019,
+      "heroImage": {
+        "id": "3e33a386-00a0-11ea-a1e1-33fd4292aab9",
+        "fileName": "2019-11-06.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-3e33a386-00a0-11ea-a1e1-33fd4292aab9.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-3e33a386-00a0-11ea-a1e1-33fd4292aab9.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    {
+      "model": "959 2.9",
+      "year": 2015,
+      "heroImage": {
+        "id": "46a17a48-00a0-11ea-a1e2-f7e8d4c242d7",
+        "fileName": "2019-11-06.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-46a17a48-00a0-11ea-a1e2-f7e8d4c242d7.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-46a17a48-00a0-11ea-a1e2-f7e8d4c242d7.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    { "model": "Montero Sport", "year": 1998, "heroImage": null },
+    {
+      "model": "Q2 Sport Tfsi",
+      "year": 2017,
+      "heroImage": {
+        "id": "dc0e179c-ec34-11e9-9a17-2b1a8ae7aa78",
+        "fileName": "download.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-dc0e179c-ec34-11e9-9a17-2b1a8ae7aa78.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-dc0e179c-ec34-11e9-9a17-2b1a8ae7aa78.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    {
+      "model": "S63",
+      "year": 2019,
+      "heroImage": {
+        "id": "5e87ec18-d469-11e9-a665-876511f53dc2",
+        "fileName": "broken-car-vehicle-vintage.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-5e87ec18-d469-11e9-a665-876511f53dc2.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-5e87ec18-d469-11e9-a665-876511f53dc2.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    {
+      "model": "E-type 3.8",
+      "year": 1961,
+      "heroImage": {
+        "id": "dd23c210-cafd-11e9-96b5-4b562b719823",
+        "fileName": "094b59ec1182463fa9cff88df88de65b.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-dd23c210-cafd-11e9-96b5-4b562b719823.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-dd23c210-cafd-11e9-96b5-4b562b719823.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    {
+      "model": "Cougar R-Code",
+      "year": 1968,
+      "heroImage": {
+        "id": "b8ee783a-c8ce-11e9-8654-1fdda1b36688",
+        "fileName": "2019-08-27.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-b8ee783a-c8ce-11e9-8654-1fdda1b36688.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-b8ee783a-c8ce-11e9-8654-1fdda1b36688.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    },
+    {
+      "model": "190 SL 1.9",
+      "year": 1955,
+      "heroImage": {
+        "id": "590679fe-c8ce-11e9-a7fd-d784ecefb016",
+        "fileName": "2019-08-27.jpg",
+        "uploadType": "vehicle_image",
+        "url": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-590679fe-c8ce-11e9-a7fd-d784ecefb016.jpg",
+        "thumbnailUrl": "https://uploads-dev.api.gapless-app.com/vehicle_image/vehicle_image-590679fe-c8ce-11e9-a7fd-d784ecefb016.jpg?w=320",
+        "uploadStatus": "success"
+      }
+    }
+  ]
+}
